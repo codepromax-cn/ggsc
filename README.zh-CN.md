@@ -34,7 +34,7 @@
 | 平台 | 版本 | 下载 | SHA-256 |
 |---|---|---|---|
 | Android | `1.0-test.20260920`（测试版） | [ggsc-release-20260920.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20260920/ggsc-release-20260920.apk) (29.1 MB) | `a66d20c8863e559e236da501888f9ee5ccdd647727ca002af3ac51b4b924be9c` |
-| Linux (x64) | `1.0.0-test.20260927`（测试版） | [GoodGoodStudyCard-1.0.0-test.20260927-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20260927/GoodGoodStudyCard-1.0.0-test.20260927-x64.AppImage) (138.3 MB) | `bf4f3c46e4bf3d6cdb554803fc7556fe1e65b24685d56b84033555744071e8c6` |
+| Linux (x64) | `1.0.0-test.20260927`（测试版） | [ggsc-1.0.0-test.20260927-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20260927/ggsc-1.0.0-test.20260927-x64.AppImage) (138.3 MB) | `57cb7de60c43150abc4f1a65fb6459ea612a2e463aa0d38a7d51445a67bc900b` |
 | iOS | — | 即将上线 | — |
 | HarmonyOS | — | 即将上线 | — |
 | macOS | — | 开发中 | — |
@@ -44,8 +44,8 @@
 - **Android**：APK 未通过 Play 商店分发——安装时按提示允许浏览器「安装未知应用」即可。
 - **Linux**：为 AppImage 添加可执行权限后运行：
   ```bash
-  chmod +x GoodGoodStudyCard-1.0.0-test.20260927-x64.AppImage
-  ./GoodGoodStudyCard-1.0.0-test.20260927-x64.AppImage
+  chmod +x ggsc-1.0.0-test.20260927-x64.AppImage
+  ./ggsc-1.0.0-test.20260927-x64.AppImage
   ```
 
 ## 截图
