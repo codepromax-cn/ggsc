@@ -34,7 +34,7 @@ Beta builds are published as [GitHub Releases](https://github.com/codepromax-cn/
 | Platform | Build | Download | SHA-256 |
 |---|---|---|---|
 | Android | `1.0-test.20260920` (beta) | [ggsc-release-20260920.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20260920/ggsc-release-20260920.apk) (29.1 MB) | `a66d20c8863e559e236da501888f9ee5ccdd647727ca002af3ac51b4b924be9c` |
-| Linux (x64) | `1.0.0-test.20260927` (beta) | [ggsc-1.0.0-test.20260927-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20260927/ggsc-1.0.0-test.20260927-x64.AppImage) (138.3 MB) | `57cb7de60c43150abc4f1a65fb6459ea612a2e463aa0d38a7d51445a67bc900b` |
+| Linux (x64) | `1.0.0-test.20261004` (beta) | [ggsc-1.0.0-test.20261004-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261004/ggsc-1.0.0-test.20261004-x64.AppImage) (138.3 MB) | `2925c5850111a225388c7d2dcfacc6b22186002e030ea7ce70e8c5ddbb8cd899` |
 | iOS | — | Coming soon | — |
 | HarmonyOS | — | Coming soon | — |
 | macOS | — | In development | — |
@@ -44,8 +44,8 @@ Beta builds are published as [GitHub Releases](https://github.com/codepromax-cn/
 - **Android**: the APK is signed outside Play Store — allow "install unknown apps" for your browser when prompted.
 - **Linux**: make the AppImage executable, then run it:
   ```bash
-  chmod +x ggsc-1.0.0-test.20260927-x64.AppImage
-  ./ggsc-1.0.0-test.20260927-x64.AppImage
+  chmod +x ggsc-1.0.0-test.20261004-x64.AppImage
+  ./ggsc-1.0.0-test.20261004-x64.AppImage
   ```
 
 ## Screenshots
