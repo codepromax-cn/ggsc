@@ -33,7 +33,7 @@ Beta builds are published as [GitHub Releases](https://github.com/codepromax-cn/
 
 | Platform | Build | Download | SHA-256 |
 |---|---|---|---|
-| Android | `1.0-test.20260920` (beta) | [ggsc-release-20260920.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20260920/ggsc-release-20260920.apk) (29.1 MB) | `a66d20c8863e559e236da501888f9ee5ccdd647727ca002af3ac51b4b924be9c` |
+| Android | `1.0-test.20261004` (beta) | [ggsc-release-20261004.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261004/ggsc-release-20261004.apk) (29.1 MB) | `1ed0b2f69361b2e6f0b5d487ff25dcc2b42b1a1153f8dc1601e59a9949a2fad7` |
 | Linux (x64) | `1.0.0-test.20261004` (beta) | [ggsc-1.0.0-test.20261004-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261004/ggsc-1.0.0-test.20261004-x64.AppImage) (138.3 MB) | `2925c5850111a225388c7d2dcfacc6b22186002e030ea7ce70e8c5ddbb8cd899` |
 | iOS | — | Coming soon | — |
 | HarmonyOS | — | Coming soon | — |
