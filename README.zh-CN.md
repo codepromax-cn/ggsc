@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>用间隔重复算法，高效记住任何内容。</strong><br>
-  Android · iOS · HarmonyOS · macOS · Linux
+  Android · iOS · HarmonyOS · Windows · macOS · Linux
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - **间隔重复算法，完全透明** —— 简化 SM-2 算法为每张卡片安排最佳复习时机，每个评分按钮直接显示下次间隔。
 - **四种学习模式** —— 牌组学习、全局待复习、收藏夹、单卡学习，外加「新 / 学习中 / 已掌握」看板，全局进度一目了然。
 - **丰富的卡片内容** —— 问题与答案均支持 Markdown，每张卡片最多 8 张图片，9 种分类颜色快速区分主题。
-- **跨平台分享** —— 导出 `.ggsdeck` / `.ggscard` 文件即可在安卓、iOS、鸿蒙之间互导。无需账号，无需服务器。
+- **跨平台分享** —— 导出 `.ggsdeck` / `.ggscard` 文件即可在安卓、iOS、鸿蒙、Windows 之间互导。无需账号，无需服务器。
 - **桌面小组件** —— 主屏与锁屏小组件直接翻卡学习，无需打开应用。
 - **学习统计** —— 连续学习天数、学习时长、正确率、每日活动时间线与各牌组表现。
 - **离线优先 · 数据自留** —— 无需注册，数据默认只存在本机；回收站保留 30 天，误删随时可恢复。
@@ -35,6 +35,7 @@
 |---|---|---|---|
 | Android | `1.0-test.20261004`（测试版） | [ggsc-release-20261004.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261004/ggsc-release-20261004.apk) (29.1 MB) | `1ed0b2f69361b2e6f0b5d487ff25dcc2b42b1a1153f8dc1601e59a9949a2fad7` |
 | Linux (x64) | `1.0.0-test.20261004`（测试版） | [ggsc-1.0.0-test.20261004-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261004/ggsc-1.0.0-test.20261004-x64.AppImage) (138.3 MB) | `2925c5850111a225388c7d2dcfacc6b22186002e030ea7ce70e8c5ddbb8cd899` |
+| Windows (x64) | `0.1.0-test.20261014`（测试版） | [GoodGoodStudyCard-Setup-0.1.0-test.20261014.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261014/GoodGoodStudyCard-Setup-0.1.0-test.20261014.exe) (47.8 MB) | `06d9a0d766589a4e0205aebba639f11bf7b6d6504693437c6e88c29cd96fc543` |
 | iOS | — | 即将上线 | — |
 | HarmonyOS | — | 即将上线 | — |
 | macOS | — | 开发中 | — |
@@ -47,6 +48,7 @@
   chmod +x ggsc-1.0.0-test.20261004-x64.AppImage
   ./ggsc-1.0.0-test.20261004-x64.AppImage
   ```
+- **Windows**：双击 NSIS 安装包即可安装（无需管理员权限）。首次启动时 Windows SmartScreen 会提示「未知发布者」，点击「更多信息 → 仍要运行」继续。需要 Windows 10 1909 及以上，x64。
 
 ## 截图
 
