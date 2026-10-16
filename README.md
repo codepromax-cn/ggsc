@@ -34,7 +34,7 @@ Beta builds are published as [GitHub Releases](https://github.com/codepromax-cn/
 | Platform | Build | Download | SHA-256 |
 |---|---|---|---|
 | Android | `1.0-test.20261004` (beta) | [ggsc-release-20261004.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261004/ggsc-release-20261004.apk) (29.1 MB) | `1ed0b2f69361b2e6f0b5d487ff25dcc2b42b1a1153f8dc1601e59a9949a2fad7` |
-| Linux (x64) | `1.0.0-test.20261004` (beta) | [ggsc-1.0.0-test.20261004-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261004/ggsc-1.0.0-test.20261004-x64.AppImage) (138.3 MB) | `2925c5850111a225388c7d2dcfacc6b22186002e030ea7ce70e8c5ddbb8cd899` |
+| Linux (x64) | `1.0.0-test.20261017` (beta) | [ggsc-1.0.0-test.20261017-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261017/ggsc-1.0.0-test.20261017-x64.AppImage) (138.3 MB) | `29c22a884ec329ac8487611a6b6bef3408c4afe7fa3a8741d2d93554705ed2e8` |
 | Windows (x64) | `0.1.0-test.20261014` (beta) | [GoodGoodStudyCard-Setup-0.1.0-test.20261014.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261014/GoodGoodStudyCard-Setup-0.1.0-test.20261014.exe) (47.8 MB) | `06d9a0d766589a4e0205aebba639f11bf7b6d6504693437c6e88c29cd96fc543` |
 | iOS | — | Coming soon | — |
 | HarmonyOS | — | Coming soon | — |
@@ -45,8 +45,8 @@ Beta builds are published as [GitHub Releases](https://github.com/codepromax-cn/
 - **Android**: the APK is signed outside Play Store — allow "install unknown apps" for your browser when prompted.
 - **Linux**: make the AppImage executable, then run it:
   ```bash
-  chmod +x ggsc-1.0.0-test.20261004-x64.AppImage
-  ./ggsc-1.0.0-test.20261004-x64.AppImage
+  chmod +x ggsc-1.0.0-test.20261017-x64.AppImage
+  ./ggsc-1.0.0-test.20261017-x64.AppImage
   ```
 - **Windows**: run the NSIS installer (no administrator rights needed). On first launch, Windows SmartScreen will warn about an unknown publisher — click **More info → Run anyway** to continue. Requires Windows 10 1909 or later, x64.
 
