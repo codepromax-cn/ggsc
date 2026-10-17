@@ -34,21 +34,22 @@
 | 平台 | 版本 | 下载 | SHA-256 |
 |---|---|---|---|
 | Android | `1.0-test.20261004`（测试版） | [ggsc-release-20261004.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261004/ggsc-release-20261004.apk) (29.1 MB) | `1ed0b2f69361b2e6f0b5d487ff25dcc2b42b1a1153f8dc1601e59a9949a2fad7` |
-| Linux (x64) | `1.0.0-test.20261017`（测试版） | [ggsc-1.0.0-test.20261017-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261017/ggsc-1.0.0-test.20261017-x64.AppImage) (138.3 MB) | `29c22a884ec329ac8487611a6b6bef3408c4afe7fa3a8741d2d93554705ed2e8` |
-| Windows (x64) | `0.1.0-test.20261017`（测试版） | [GoodGoodStudyCard-Setup-0.1.0-test.20261017.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261017/GoodGoodStudyCard-Setup-0.1.0-test.20261017.exe) (47.8 MB) | `ffa57952e3a030c02f410425dbc3fb77394df3a5d2952406368b2abc46c92fa2` |
+| Linux (x64) | `1.0-test.20261017`（测试版） | [ggsc-1.0-test.20261017-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261017/ggsc-1.0-test.20261017-x64.AppImage) (138.3 MB) | `29c22a884ec329ac8487611a6b6bef3408c4afe7fa3a8741d2d93554705ed2e8` |
+| Windows (x64) | `1.0-test.20261017`（测试版） | [GoodGoodStudyCard-Setup-1.0-test.20261017.exe](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261017/GoodGoodStudyCard-Setup-1.0-test.20261017.exe) (47.8 MB) | `ffa57952e3a030c02f410425dbc3fb77394df3a5d2952406368b2abc46c92fa2` |
 | iOS | — | 即将上线 | — |
 | HarmonyOS | — | 即将上线 | — |
-| macOS | — | 开发中 | — |
+| macOS (arm64) | `1.0-test.20261017`（测试版） | [GoodGoodStudyCard-1.0-test.20261017-arm64.dmg](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261017/GoodGoodStudyCard-1.0-test.20261017-arm64.dmg) (6.1 MB) | `8584649d51a8ab1694b81aaba435da1f5c037ed9397f41e9ad03b73539a727c7` |
 
 **安装说明**
 
 - **Android**：APK 未通过 Play 商店分发——安装时按提示允许浏览器「安装未知应用」即可。
 - **Linux**：为 AppImage 添加可执行权限后运行：
   ```bash
-  chmod +x ggsc-1.0.0-test.20261017-x64.AppImage
-  ./ggsc-1.0.0-test.20261017-x64.AppImage
+  chmod +x ggsc-1.0-test.20261017-x64.AppImage
+  ./ggsc-1.0-test.20261017-x64.AppImage
   ```
 - **Windows**：双击 NSIS 安装包即可安装（无需管理员权限）。首次启动时 Windows SmartScreen 会提示「未知发布者」，点击「更多信息 → 仍要运行」继续。需要 Windows 10 1909 及以上，x64。
+- **macOS**：打开 DMG，将应用拖入「应用程序」。构建未签名——首次启动会被 macOS 拦截：打开「系统设置 → 隐私与安全性」，点击「仍要打开」（或在终端运行 `xattr -cr /Applications/GoodGoodStudyCard.app`）。需要 macOS 14.0 及以上，Apple Silicon。
 
 ## 截图
 
