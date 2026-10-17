@@ -34,8 +34,8 @@ Beta builds are published as [GitHub Releases](https://github.com/codepromax-cn/
 | Platform | Build | Download | SHA-256 |
 |---|---|---|---|
 | Android | `1.0-test.20261004` (beta) | [ggsc-release-20261004.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261004/ggsc-release-20261004.apk) (29.1 MB) | `1ed0b2f69361b2e6f0b5d487ff25dcc2b42b1a1153f8dc1601e59a9949a2fad7` |
-| Linux (x64) | `1.0-test.20261017` (beta) | [ggsc-1.0-test.20261017-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261017/ggsc-1.0-test.20261017-x64.AppImage) (138.3 MB) | `29c22a884ec329ac8487611a6b6bef3408c4afe7fa3a8741d2d93554705ed2e8` |
-| Windows (x64) | `1.0-test.20261017` (beta) | [GoodGoodStudyCard-Setup-1.0-test.20261017.exe](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261017/GoodGoodStudyCard-Setup-1.0-test.20261017.exe) (47.8 MB) | `ffa57952e3a030c02f410425dbc3fb77394df3a5d2952406368b2abc46c92fa2` |
+| Linux (x64) | `1.0.0-test.20261017` (beta) | [ggsc-1.0.0-test.20261017-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261017/ggsc-1.0.0-test.20261017-x64.AppImage) (138.3 MB) | `29c22a884ec329ac8487611a6b6bef3408c4afe7fa3a8741d2d93554705ed2e8` |
+| Windows (x64) | `0.1.0-test.20261017` (beta) | [GoodGoodStudyCard-Setup-0.1.0-test.20261017.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261017/GoodGoodStudyCard-Setup-0.1.0-test.20261017.exe) (47.8 MB) | `ffa57952e3a030c02f410425dbc3fb77394df3a5d2952406368b2abc46c92fa2` |
 | iOS | — | Coming soon | — |
 | HarmonyOS | — | Coming soon | — |
 | macOS (arm64) | `1.0-test.20261017` (beta) | [GoodGoodStudyCard-1.0-test.20261017-arm64.dmg](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261017/GoodGoodStudyCard-1.0-test.20261017-arm64.dmg) (6.1 MB) | `8584649d51a8ab1694b81aaba435da1f5c037ed9397f41e9ad03b73539a727c7` |
@@ -45,8 +45,8 @@ Beta builds are published as [GitHub Releases](https://github.com/codepromax-cn/
 - **Android**: the APK is signed outside Play Store — allow "install unknown apps" for your browser when prompted.
 - **Linux**: make the AppImage executable, then run it:
   ```bash
-  chmod +x ggsc-1.0-test.20261017-x64.AppImage
-  ./ggsc-1.0-test.20261017-x64.AppImage
+  chmod +x ggsc-1.0.0-test.20261017-x64.AppImage
+  ./ggsc-1.0.0-test.20261017-x64.AppImage
   ```
 - **Windows**: run the NSIS installer (no administrator rights needed). On first launch, Windows SmartScreen will warn about an unknown publisher — click **More info → Run anyway** to continue. Requires Windows 10 1909 or later, x64.
 - **macOS**: open the DMG and drag the app into **Applications**. The build is unsigned — on first launch macOS blocks it: open **System Settings → Privacy & Security** and click **Open Anyway** (or run `xattr -cr /Applications/GoodGoodStudyCard.app` in Terminal). Requires macOS 14.0 or later, Apple Silicon.
