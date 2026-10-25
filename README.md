@@ -33,7 +33,7 @@ Beta builds are published as [GitHub Releases](https://github.com/codepromax-cn/
 
 | Platform | Build | Download | SHA-256 |
 |---|---|---|---|
-| Android | `1.0-test.20261004` (beta) | [ggsc-release-20261004.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261004/ggsc-release-20261004.apk) (29.1 MB) | `1ed0b2f69361b2e6f0b5d487ff25dcc2b42b1a1153f8dc1601e59a9949a2fad7` |
+| Android | `1.0-test.20261025` (beta) | [ggsc-release-20261025.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261025/ggsc-release-20261025.apk) (29.1 MB) | `b621a398027709f23c8a9dc8da6e83a6c2f54cd6c1e6c1e38f89a2b1127ccf8d` |
 | Linux (x64) | `1.0.0-test.20261025` (beta) | [ggsc-1.0.0-test.20261025-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261025/ggsc-1.0.0-test.20261025-x64.AppImage) (138.3 MB) | `596e7542e216b8f2773e6d5fa3421a1edbdd88d9f8a3c3fa0252184951f868e7` |
 | Windows (x64) | `0.1.0-test.20261025` (beta) | [GoodGoodStudyCard-Setup-0.1.0-test.20261025.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261025/GoodGoodStudyCard-Setup-0.1.0-test.20261025.exe) (47.8 MB) | `3989ecdb79b7b708b58e9afd64ecbea7337dbe24fd9906fc16c187b2bcc3b586` |
 | iOS | — | Coming soon | — |
