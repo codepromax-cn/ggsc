@@ -38,7 +38,7 @@ Beta builds are published as [GitHub Releases](https://github.com/codepromax-cn/
 | Windows (x64) | `0.1.0-test.20261025` (beta) | [GoodGoodStudyCard-Setup-0.1.0-test.20261025.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261025/GoodGoodStudyCard-Setup-0.1.0-test.20261025.exe) (47.8 MB) | `3989ecdb79b7b708b58e9afd64ecbea7337dbe24fd9906fc16c187b2bcc3b586` |
 | iOS | — | Coming soon | — |
 | HarmonyOS | — | Coming soon | — |
-| macOS (arm64) | `1.0-test.20261017` (beta) | [GoodGoodStudyCard-1.0-test.20261017-arm64.dmg](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261017/GoodGoodStudyCard-1.0-test.20261017-arm64.dmg) (6.1 MB) | `8584649d51a8ab1694b81aaba435da1f5c037ed9397f41e9ad03b73539a727c7` |
+| macOS (arm64) | `1.0-test.20261031` (beta) | [GoodGoodStudyCard-1.0-test.20261031-arm64.dmg](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/GoodGoodStudyCard-1.0-test.20261031-arm64.dmg) (6.1 MB) | `d002eec74efe93bd33d9710be8564de12d53419735a7c37bf33da19040595814` |
 
 **Install notes**
 
