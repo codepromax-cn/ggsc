@@ -29,16 +29,16 @@
 
 ## Downloads
 
-Beta builds are published as [GitHub Releases](https://github.com/codepromax-cn/ggsc/releases). Store listings for the stable release are on the way.
+Beta builds are published on [GitHub Releases](https://github.com/codepromax-cn/ggsc/releases) and mirrored on [Gitee Releases](https://gitee.com/codepromax-cn/ggsc/releases) (recommended for users in mainland China). Store listings for the stable release are on the way.
 
 | Platform | Build | Download | SHA-256 |
 |---|---|---|---|
-| Android | `1.0-test.20261031` (beta) | [ggsc-release-20261031.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/ggsc-release-20261031.apk) (29.1 MB) | `dd20f87dfbef4be11388fcab1f45f392359dcead9937fe0e1daf81c0b475115e` |
+| Android | `1.0-test.20261031` (beta) | [ggsc-release-20261031.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/ggsc-release-20261031.apk) (29.1 MB) · [Gitee mirror](https://gitee.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/ggsc-release-20261031.apk) | `dd20f87dfbef4be11388fcab1f45f392359dcead9937fe0e1daf81c0b475115e` |
 | Linux (x64) | `1.0.0-test.20261031` (beta) | [ggsc-1.0.0-test.20261031-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261031/ggsc-1.0.0-test.20261031-x64.AppImage) (121.5 MB) | `01c0fb427edef6ec95c7fb5ef98d517bbf4bd01a77d8ef18619bfdafc74b4e5f` |
-| Windows (x64) | `0.1.0-test.20261031` (beta) | [GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261031/GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe) (47.8 MB) | `9f9d24782574fbd94dd0c3bb3a233938747a145786ed11edd04fef3314a0f27b` |
+| Windows (x64) | `0.1.0-test.20261031` (beta) | [GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261031/GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe) (47.8 MB) · [Gitee mirror](https://gitee.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261031/GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe) | `9f9d24782574fbd94dd0c3bb3a233938747a145786ed11edd04fef3314a0f27b` |
 | iOS | — | Coming soon | — |
 | HarmonyOS | — | Coming soon | — |
-| macOS (arm64) | `1.0-test.20261031` (beta) | [GoodGoodStudyCard-1.0-test.20261031-arm64.dmg](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/GoodGoodStudyCard-1.0-test.20261031-arm64.dmg) (6.1 MB) | `d002eec74efe93bd33d9710be8564de12d53419735a7c37bf33da19040595814` |
+| macOS (arm64) | `1.0-test.20261031` (beta) | [GoodGoodStudyCard-1.0-test.20261031-arm64.dmg](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/GoodGoodStudyCard-1.0-test.20261031-arm64.dmg) (6.1 MB) · [Gitee mirror](https://gitee.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/GoodGoodStudyCard-1.0-test.20261031-arm64.dmg) | `d002eec74efe93bd33d9710be8564de12d53419735a7c37bf33da19040595814` |
 
 **Install notes**
 
@@ -71,4 +71,4 @@ Visit **[ggscard.cn](https://ggscard.cn)** — the project's home on the web:
 
 ## About this repository
 
-This repository hosts **release binaries and release notes** for Good Good Study Card. Each beta drop is a tagged release (`v<version>`) with its checksums in the release notes. For the product website, deck gallery, and documentation, see [ggscard.cn](https://ggscard.cn).
+This repository hosts **release binaries and release notes** for Good Good Study Card. Each beta drop is a tagged release (`v<version>`) with its checksums in the release notes, published on [GitHub Releases](https://github.com/codepromax-cn/ggsc/releases) and [Gitee Releases](https://gitee.com/codepromax-cn/ggsc/releases). For the product website, deck gallery, and documentation, see [ggscard.cn](https://ggscard.cn).

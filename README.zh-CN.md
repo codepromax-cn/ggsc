@@ -29,16 +29,16 @@
 
 ## 下载
 
-测试版以 [GitHub Releases](https://github.com/codepromax-cn/ggsc/releases) 形式发布，正式版的商店上架正在准备中。
+测试版以 [GitHub Releases](https://github.com/codepromax-cn/ggsc/releases) 与 [Gitee 发行版](https://gitee.com/codepromax-cn/ggsc/releases) 同步发布（国内用户推荐使用 Gitee 镜像加速下载），正式版的商店上架正在准备中。
 
 | 平台 | 版本 | 下载 | SHA-256 |
 |---|---|---|---|
-| Android | `1.0-test.20261031`（测试版） | [ggsc-release-20261031.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/ggsc-release-20261031.apk) (29.1 MB) | `dd20f87dfbef4be11388fcab1f45f392359dcead9937fe0e1daf81c0b475115e` |
+| Android | `1.0-test.20261031`（测试版） | [ggsc-release-20261031.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/ggsc-release-20261031.apk) (29.1 MB) · [Gitee 镜像](https://gitee.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/ggsc-release-20261031.apk) | `dd20f87dfbef4be11388fcab1f45f392359dcead9937fe0e1daf81c0b475115e` |
 | Linux (x64) | `1.0.0-test.20261031`（测试版） | [ggsc-1.0.0-test.20261031-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261031/ggsc-1.0.0-test.20261031-x64.AppImage) (121.5 MB) | `01c0fb427edef6ec95c7fb5ef98d517bbf4bd01a77d8ef18619bfdafc74b4e5f` |
-| Windows (x64) | `0.1.0-test.20261031`（测试版） | [GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261031/GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe) (47.8 MB) | `9f9d24782574fbd94dd0c3bb3a233938747a145786ed11edd04fef3314a0f27b` |
+| Windows (x64) | `0.1.0-test.20261031`（测试版） | [GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261031/GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe) (47.8 MB) · [Gitee 镜像](https://gitee.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261031/GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe) | `9f9d24782574fbd94dd0c3bb3a233938747a145786ed11edd04fef3314a0f27b` |
 | iOS | — | 即将上线 | — |
 | HarmonyOS | — | 即将上线 | — |
-| macOS (arm64) | `1.0-test.20261031`（测试版） | [GoodGoodStudyCard-1.0-test.20261031-arm64.dmg](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/GoodGoodStudyCard-1.0-test.20261031-arm64.dmg) (6.1 MB) | `d002eec74efe93bd33d9710be8564de12d53419735a7c37bf33da19040595814` |
+| macOS (arm64) | `1.0-test.20261031`（测试版） | [GoodGoodStudyCard-1.0-test.20261031-arm64.dmg](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/GoodGoodStudyCard-1.0-test.20261031-arm64.dmg) (6.1 MB) · [Gitee 镜像](https://gitee.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/GoodGoodStudyCard-1.0-test.20261031-arm64.dmg) | `d002eec74efe93bd33d9710be8564de12d53419735a7c37bf33da19040595814` |
 
 **安装说明**
 
@@ -71,4 +71,4 @@
 
 ## 关于本仓库
 
-本仓库托管好好学习卡片的**发布文件与版本说明**。每个测试版都是一个带校验和的标签发布（`v<版本号>`）。产品官网、牌组广场与文档请访问 [ggscard.cn](https://ggscard.cn)。
+本仓库托管好好学习卡片的**发布文件与版本说明**。每个测试版都是一个带校验和的标签发布（`v<版本号>`），在 [GitHub Releases](https://github.com/codepromax-cn/ggsc/releases) 与 [Gitee 发行版](https://gitee.com/codepromax-cn/ggsc/releases) 同步发布。产品官网、牌组广场与文档请访问 [ggscard.cn](https://ggscard.cn)。
