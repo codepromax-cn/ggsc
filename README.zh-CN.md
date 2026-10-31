@@ -35,7 +35,7 @@
 |---|---|---|---|
 | Android | `1.0-test.20261031`（测试版） | [ggsc-release-20261031.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/ggsc-release-20261031.apk) (29.1 MB) | `dd20f87dfbef4be11388fcab1f45f392359dcead9937fe0e1daf81c0b475115e` |
 | Linux (x64) | `1.0.0-test.20261031`（测试版） | [ggsc-1.0.0-test.20261031-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261031/ggsc-1.0.0-test.20261031-x64.AppImage) (121.5 MB) | `01c0fb427edef6ec95c7fb5ef98d517bbf4bd01a77d8ef18619bfdafc74b4e5f` |
-| Windows (x64) | `0.1.0-test.20261025`（测试版） | [GoodGoodStudyCard-Setup-0.1.0-test.20261025.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261025/GoodGoodStudyCard-Setup-0.1.0-test.20261025.exe) (47.8 MB) | `3989ecdb79b7b708b58e9afd64ecbea7337dbe24fd9906fc16c187b2bcc3b586` |
+| Windows (x64) | `0.1.0-test.20261031`（测试版） | [GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261031/GoodGoodStudyCard-Setup-0.1.0-test.20261031.exe) (47.8 MB) | `9f9d24782574fbd94dd0c3bb3a233938747a145786ed11edd04fef3314a0f27b` |
 | iOS | — | 即将上线 | — |
 | HarmonyOS | — | 即将上线 | — |
 | macOS (arm64) | `1.0-test.20261031`（测试版） | [GoodGoodStudyCard-1.0-test.20261031-arm64.dmg](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/GoodGoodStudyCard-1.0-test.20261031-arm64.dmg) (6.1 MB) | `d002eec74efe93bd33d9710be8564de12d53419735a7c37bf33da19040595814` |
