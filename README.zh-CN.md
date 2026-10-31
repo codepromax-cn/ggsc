@@ -33,7 +33,7 @@
 
 | 平台 | 版本 | 下载 | SHA-256 |
 |---|---|---|---|
-| Android | `1.0-test.20261025`（测试版） | [ggsc-release-20261025.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261025/ggsc-release-20261025.apk) (29.1 MB) | `b621a398027709f23c8a9dc8da6e83a6c2f54cd6c1e6c1e38f89a2b1127ccf8d` |
+| Android | `1.0-test.20261031`（测试版） | [ggsc-release-20261031.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261031/ggsc-release-20261031.apk) (29.1 MB) | `dd20f87dfbef4be11388fcab1f45f392359dcead9937fe0e1daf81c0b475115e` |
 | Linux (x64) | `1.0.0-test.20261031`（测试版） | [ggsc-1.0.0-test.20261031-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261031/ggsc-1.0.0-test.20261031-x64.AppImage) (121.5 MB) | `01c0fb427edef6ec95c7fb5ef98d517bbf4bd01a77d8ef18619bfdafc74b4e5f` |
 | Windows (x64) | `0.1.0-test.20261025`（测试版） | [GoodGoodStudyCard-Setup-0.1.0-test.20261025.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261025/GoodGoodStudyCard-Setup-0.1.0-test.20261025.exe) (47.8 MB) | `3989ecdb79b7b708b58e9afd64ecbea7337dbe24fd9906fc16c187b2bcc3b586` |
 | iOS | — | 即将上线 | — |
