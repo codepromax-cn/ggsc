@@ -34,7 +34,7 @@
 | 平台 | 版本 | 下载 | SHA-256 |
 |---|---|---|---|
 | Android | `1.0-test.20261025`（测试版） | [ggsc-release-20261025.apk](https://github.com/codepromax-cn/ggsc/releases/download/v1.0-test.20261025/ggsc-release-20261025.apk) (29.1 MB) | `b621a398027709f23c8a9dc8da6e83a6c2f54cd6c1e6c1e38f89a2b1127ccf8d` |
-| Linux (x64) | `1.0.0-test.20261025`（测试版） | [ggsc-1.0.0-test.20261025-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261025/ggsc-1.0.0-test.20261025-x64.AppImage) (138.3 MB) | `596e7542e216b8f2773e6d5fa3421a1edbdd88d9f8a3c3fa0252184951f868e7` |
+| Linux (x64) | `1.0.0-test.20261031`（测试版） | [ggsc-1.0.0-test.20261031-x64.AppImage](https://github.com/codepromax-cn/ggsc/releases/download/v1.0.0-test.20261031/ggsc-1.0.0-test.20261031-x64.AppImage) (121.5 MB) | `01c0fb427edef6ec95c7fb5ef98d517bbf4bd01a77d8ef18619bfdafc74b4e5f` |
 | Windows (x64) | `0.1.0-test.20261025`（测试版） | [GoodGoodStudyCard-Setup-0.1.0-test.20261025.exe](https://github.com/codepromax-cn/ggsc/releases/download/v0.1.0-test.20261025/GoodGoodStudyCard-Setup-0.1.0-test.20261025.exe) (47.8 MB) | `3989ecdb79b7b708b58e9afd64ecbea7337dbe24fd9906fc16c187b2bcc3b586` |
 | iOS | — | 即将上线 | — |
 | HarmonyOS | — | 即将上线 | — |
@@ -45,8 +45,8 @@
 - **Android**：APK 未通过 Play 商店分发——安装时按提示允许浏览器「安装未知应用」即可。
 - **Linux**：为 AppImage 添加可执行权限后运行：
   ```bash
-  chmod +x ggsc-1.0.0-test.20261025-x64.AppImage
-  ./ggsc-1.0.0-test.20261025-x64.AppImage
+  chmod +x ggsc-1.0.0-test.20261031-x64.AppImage
+  ./ggsc-1.0.0-test.20261031-x64.AppImage
   ```
 - **Windows**：双击 NSIS 安装包即可安装（无需管理员权限）。首次启动时 Windows SmartScreen 会提示「未知发布者」，点击「更多信息 → 仍要运行」继续。需要 Windows 10 1909 及以上，x64。
 - **macOS**：打开 DMG，将应用拖入「应用程序」。构建未签名——首次启动会被 macOS 拦截：打开「系统设置 → 隐私与安全性」，点击「仍要打开」（或在终端运行 `xattr -cr /Applications/GoodGoodStudyCard.app`）。需要 macOS 14.0 及以上，Apple Silicon。
